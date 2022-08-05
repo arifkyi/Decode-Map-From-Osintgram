@@ -1,0 +1,4 @@
+| 1    | Sanitaire Public du Quai Saint-Antoine, Quai Saint-Antoine, Lyon 2e Arrondissement, Lyon, Métropole de Lyon, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69002, France | 2022-07-25 15:51:37 |
+| 2    | SDN 2 Jayagiri Lembang, Jl, Pasir Ipis, Lembang, Jawa Barat, 40391, Indonesia                                                                                                                                    | 2022-07-06 17:13:40 |
+| 3   | Sudirman Suite, Jalan Bendungan Hilir, RW 01, Bendungan Hilir, Tanah Abang, Jakarta Pusat, Daerah Khusus Ibukota Jakarta, 10210, Indonesia                                                                       | 2021-10-27 15:16:53 |
+| 4   | Sudirman Suite, Jalan Bendungan Hilir, RW 01, Bendungan Hilir, Tanah Abang, Jakarta Pusat, Daerah Khusus Ibukota Jakarta, 10210, Indonesia                                                                       | 2021-08-27 15:16:53 |
